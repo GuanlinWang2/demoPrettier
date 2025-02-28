@@ -9,6 +9,5 @@ import { RouterOutlet } from '@angular/router';
 })
 export class AppComponent {
   title = 'demoPrettier';
-  x =          
-   4;
+  x = 4;
 }
