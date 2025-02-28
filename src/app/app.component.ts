@@ -11,5 +11,5 @@ export class AppComponent {
   title = 'demoPrettier';
   x = 1;
   y = 2;
-  u = 4;
+  u = 4; v = 5;
 }
