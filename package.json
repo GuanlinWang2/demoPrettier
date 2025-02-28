@@ -46,7 +46,7 @@
   },
   "lint-staged": {
     "src/**/*.{js,ts,html,css}": [
-      "prettier --check"
+      "prettier --check --write"
     ]
   },
   "husky": {
