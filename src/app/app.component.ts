@@ -10,4 +10,6 @@ import { RouterOutlet } from '@angular/router';
 export class AppComponent {
   title = 'demoPrettier';
   x = 1;
+  y = 2;
+  u = 4;
 }
