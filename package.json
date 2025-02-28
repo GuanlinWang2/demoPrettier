@@ -44,15 +44,5 @@
     "lint-staged": "^15.4.3",
     "prettier": "^3.5.2",
     "typescript": "~5.7.2"
-  },
-  "lint-staged": {
-    "src/**/*.{js,ts,html,css}": [
-      "prettier --check"
-    ]
-  },
-  "husky": {
-    "hooks": {
-      "precommit": "echo 'Precommit hook running' && lint-staged"
-    }
   }
 }
